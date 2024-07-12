@@ -1,2 +1,2 @@
 # Arduino
-### Arduino (UNO)
+### Arduino UNO (C++)
