@@ -1,5 +1,5 @@
 //v2 better one (use this instead of v1)
-//with ultrasonic now
+//Now with ultrasonic
 
 int distance;
 int duration;
